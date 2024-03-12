@@ -6,7 +6,7 @@ We have used the network mentioned in the official NeRF paper but we have only u
 • Optimizer: Adam
 • Loss: MSE loss
 • Near, Far bounds: 2, 6
-![](https://github.com/DhirajRouniyar/NeRF-3D-reconstruction-and-novel-view/blob/main/Phase%202/Nerf.gif)
+![](https://github.com/DhirajRouniyar/NeRF-3D-reconstruction-and-novel-view/blob/main/Images/Network.png)
 
 # Output_1
 ![](https://github.com/DhirajRouniyar/NeRF-3D-reconstruction-and-novel-view/blob/main/Phase%202/Nerf.gif)
